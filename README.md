@@ -32,7 +32,7 @@ This dashboard could have been built using:
 - Data Sources: ESPN Cricinfo, ICC stats, Kaggle cricket datasets
 - Visualization Tools:
 - Power BI for dashboard design
-- Excel & Pover query Editor for get data and clean and  remove unwanted column
+- Excel & Power query Editor for get data and clean and  remove unwanted column
 
 
 ## 🎯 Purpose and Use Cases
